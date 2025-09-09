@@ -1,0 +1,5 @@
+{
+  "name": "AI Lead Finder",
+  "description": "An intelligent application that analyzes your business and discovers local leads that need your services. It uses AI to research potential clients and drafts personalized outreach emails to kickstart your sales process.",
+  "requestFramePermissions": []
+}
